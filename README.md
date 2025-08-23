@@ -54,7 +54,7 @@
   - **Skills:** Assessment Methodologies, Web Application Penetration Testing, Host & Networking Penetration Testing, Host & Networking Auditing
   - **Verification:** [Certificate Link](https://certs.ine.com/ede6d94e-2a2d-42a0-a47b-3f4a0aa7c487)
 
-![Harness](https://images.credly.com/size/340x340/images/49f54aa5-d3a8-4b88-9de8-b8e6d6e62f5c/image.png)
+![Harness](https://images.credly.com/images/2bb39137-aa08-4b2b-babb-87d3d1283737/image.png)
 - **Harness Certified Security Testing Orchestration Developer** (Harness Inc, Aug 22, 2025)
 
 ![LFEL1005](https://images.credly.com/size/680x680/images/3f266148-172f-427c-ba86-d25c73a29d1c/blob)
