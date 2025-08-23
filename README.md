@@ -62,12 +62,13 @@
   <img src="https://images.credly.com/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" width="100" height="100" alt="LFS180"/>
   <img src="https://images.credly.com/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" width="100" height="100" alt="Cisco Learn-A-Thon"/>
   <img src="https://images.credly.com/images/de20214a-9510-4822-8505-29d4c9dbb592/image.png" width="100" height="100" alt="Top ATT&CK Techniques"/>
-  <img src="https://images.credly.com/images/466bf45d-c48d-46c3-a613-fd950d1dd9f9/Foundations_of_MITRE_ATT_CK_Badge.png" width="120" height="120" alt="Foundations of MITRE ATT&CK"/>
 </p>
 
 <p align="center">
+  <img src="https://images.credly.com/images/466bf45d-c48d-46c3-a613-fd950d1dd9f9/Foundations_of_MITRE_ATT_CK_Badge.png" width="100" height="100" alt="Foundations of MITRE ATT&CK"/>
   <img src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="100" height="100" alt="Cisco CyberOps Associate"/>
 </p>
+
 
 
 
