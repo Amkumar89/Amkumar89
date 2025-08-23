@@ -60,10 +60,10 @@
 ![LFEL1005](https://images.credly.com/size/680x680/images/3f266148-172f-427c-ba86-d25c73a29d1c/blob)
 - **LFEL1005: Security Self-Assessments for Open Source Projects** (The Linux Foundation, Aug 21, 2025)
 
-![LFS101](https://images.credly.com/size/340x340/images/06606fdc-bedf-4c2e-9107-e3b49b016e04/image.png)
+![LFS101](https://images.credly.com/size/680x680/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob)
 - **LFS101: Introduction to Linux** (The Linux Foundation, Aug 21, 2025)
 
-![LFS180](https://images.credly.com/size/340x340/images/bb8e3f66-16f3-4de8-93ad-8a0e0d99eb70/image.png)
+![LFS180](https://images.credly.com/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob)
 - **LFS180: Introduction to DevSecOps for Managers** (The Linux Foundation, Aug 21, 2025)
 
 ![Cisco Learn-A-Thon](https://images.credly.com/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png)
