@@ -48,27 +48,52 @@
 ## 🔥 Recent Activity
 
 ## 🏅 Digital Badges & Certifications
-
-<p align="center">
-  <a href="https://certs.ine.com/ede6d94e-2a2d-42a0-a47b-3f4a0aa7c487">
-    <img src="https://assets.ine.com/certifications/badges/eJPT.png" width="100" height="100" alt="eJPT"/>
-  </a>
-  <img src="https://images.credly.com/images/2bb39137-aa08-4b2b-babb-87d3d1283737/image.png" width="100" height="100" alt="Harness Certified Security Testing Orchestration Developer"/>
-  <img src="https://images.credly.com/size/680x680/images/3f266148-172f-427c-ba86-d25c73a29d1c/blob" width="100" height="100" alt="LFEL1005"/>
-  <img src="https://images.credly.com/size/680x680/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" width="100" height="100" alt="LFS101"/>
-</p>
-
-<p align="center">
-  <img src="https://images.credly.com/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" width="100" height="100" alt="LFS180"/>
-  <img src="https://images.credly.com/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" width="100" height="100" alt="Cisco Learn-A-Thon"/>
-  <img src="https://images.credly.com/images/de20214a-9510-4822-8505-29d4c9dbb592/image.png" width="100" height="100" alt="Top ATT&CK Techniques"/>
-</p>
-
-<p align="center">
-  <img src="https://images.credly.com/images/466bf45d-c48d-46c3-a613-fd950d1dd9f9/Foundations_of_MITRE_ATT_CK_Badge.png" width="100" height="100" alt="Foundations of MITRE ATT&CK"/>
-  <img src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="100" height="100" alt="Cisco CyberOps Associate"/>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <a href="https://certs.ine.com/ede6d94e-2a2d-42a0-a47b-3f4a0aa7c487">
+        <img src="https://assets.ine.com/certifications/badges/eJPT.png" width="100" height="100" alt="eJPT"/>
+      </a>
+      <br><sub><b>eJPT</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://images.credly.com/images/2bb39137-aa08-4b2b-babb-87d3d1283737/image.png" width="100" height="100" alt="Harness"/>
+      <br><sub><b>Harness STO Dev</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://images.credly.com/size/680x680/images/3f266148-172f-427c-ba86-d25c73a29d1c/blob" width="100" height="100" alt="LFEL1005"/>
+      <br><sub><b>LFEL1005</b></sub>
+    </td>
+    <td align="center" width="140">
+      <img src="https://images.credly.com/size/680x680/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" width="100" height="100" alt="LFS101"/>
+      <br><sub><b>LFS101</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://images.credly.com/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" width="100" height="100" alt="LFS180"/>
+      <br><sub><b>LFS180</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://images.credly.com/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" width="100" height="100" alt="Cisco Learn-A-Thon"/>
+      <br><sub><b>Learn-A-Thon</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://images.credly.com/images/de20214a-9510-4822-8505-29d4c9dbb592/image.png" width="100" height="100" alt="Top ATT&CK Techniques"/>
+      <br><sub><b>ATT&CK Techniques</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://images.credly.com/images/466bf45d-c48d-46c3-a613-fd950d1dd9f9/Foundations_of_MITRE_ATT_CK_Badge.png" width="100" height="100" alt="MITRE Foundations"/>
+      <br><sub><b>MITRE ATT&CK</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4">
+      <img src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="100" height="100" alt="Cisco CyberOps"/>
+      <br><sub><b>Cisco CyberOps Associate</b></sub>
+    </td>
+  </tr>
+</table>
 
 
 
