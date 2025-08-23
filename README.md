@@ -49,34 +49,28 @@
 
 ## 🏅 Digital Badges & Certifications
 
-![eJPT](https://assets.ine.com/certifications/badges/eJPT.png)
-- **Junior Penetration Tester (eJPT)** (INE, Jul 3, 2025 - Jul 3, 2028)
-  - **Skills:** Assessment Methodologies, Web Application Penetration Testing, Host & Networking Penetration Testing, Host & Networking Auditing
-  - **Verification:** [Certificate Link](https://certs.ine.com/ede6d94e-2a2d-42a0-a47b-3f4a0aa7c487)
+## 🏆 Certifications
 
-![Harness](https://images.credly.com/images/2bb39137-aa08-4b2b-babb-87d3d1283737/image.png)
-- **Harness Certified Security Testing Orchestration Developer** (Harness Inc, Aug 22, 2025)
+<p align="center">
+  <a href="https://certs.ine.com/ede6d94e-2a2d-42a0-a47b-3f4a0aa7c487">
+    <img src="https://assets.ine.com/certifications/badges/eJPT.png" width="100" height="100" alt="eJPT"/>
+  </a>
+  <img src="https://images.credly.com/images/2bb39137-aa08-4b2b-babb-87d3d1283737/image.png" width="100" height="100" alt="Harness Certified Security Testing Orchestration Developer"/>
+  <img src="https://images.credly.com/size/680x680/images/3f266148-172f-427c-ba86-d25c73a29d1c/blob" width="100" height="100" alt="LFEL1005"/>
+  <img src="https://images.credly.com/size/680x680/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob" width="100" height="100" alt="LFS101"/>
+</p>
 
-![LFEL1005](https://images.credly.com/size/680x680/images/3f266148-172f-427c-ba86-d25c73a29d1c/blob)
-- **LFEL1005: Security Self-Assessments for Open Source Projects** (The Linux Foundation, Aug 21, 2025)
+<p align="center">
+  <img src="https://images.credly.com/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob" width="100" height="100" alt="LFS180"/>
+  <img src="https://images.credly.com/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" width="100" height="100" alt="Cisco Learn-A-Thon"/>
+  <img src="https://images.credly.com/images/de20214a-9510-4822-8505-29d4c9dbb592/image.png" width="100" height="100" alt="Top ATT&CK Techniques"/>
+  <img src="https://images.credly.com/images/466bf45d-c48d-46c3-a613-fd950d1dd9f9/Foundations_of_MITRE_ATT_CK_Badge.png" width="100" height="100" alt="Foundations of MITRE ATT&CK"/>
+</p>
 
-![LFS101](https://images.credly.com/size/680x680/images/97a95d07-04c3-4afb-952a-6bcf46ddb87e/blob)
-- **LFS101: Introduction to Linux** (The Linux Foundation, Aug 21, 2025)
+<p align="center">
+  <img src="https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" width="100" height="100" alt="Cisco CyberOps Associate"/>
+</p>
 
-![LFS180](https://images.credly.com/images/64e6e2af-459c-4615-9202-3d2697a21b35/blob)
-- **LFS180: Introduction to DevSecOps for Managers** (The Linux Foundation, Aug 21, 2025)
-
-![Cisco Learn-A-Thon](https://images.credly.com/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png)
-- **Networking Academy Learn-A-Thon 2023** (Cisco, Nov 19, 2023)
-
-![Top ATT&CK](https://images.credly.com/images/de20214a-9510-4822-8505-29d4c9dbb592/image.png)
-- **Top ATT&CK Techniques** (AttackIQ, Jan 31, 2023)
-
-![MITRE](https://images.credly.com/images/466bf45d-c48d-46c3-a613-fd950d1dd9f9/Foundations_of_MITRE_ATT_CK_Badge.png)
-- **Foundations of Operationalizing MITRE ATT&CK** (AttackIQ, Jan 18, 2023)
-
-![CyberOps](https://images.credly.com/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)
-- **CyberOps Associate** (Cisco, Jun 16, 2022)
 
 
 
