@@ -49,8 +49,6 @@
 
 ## 🏅 Digital Badges & Certifications
 
-## 🏆 Certifications
-
 <p align="center">
   <a href="https://certs.ine.com/ede6d94e-2a2d-42a0-a47b-3f4a0aa7c487">
     <img src="https://assets.ine.com/certifications/badges/eJPT.png" width="100" height="100" alt="eJPT"/>
