@@ -8,7 +8,7 @@
 
 - 🔐 **Cybersecurity Researcher** specializing in AI-powered penetration testing and security automation
 - 🌍 Based in **India** 🇮🇳
-- 💡 Passionate about **Cyber Security**, **AI/ML security**, and **automation**
+- 💡 Passionate about **Cyber Security**, **AI/ML security**, and *Automation**
 - 🎯 Currently working on advanced **security tools** and **vulnerability assessments**
 - 📚 Always learning about emerging **cyber threats** and **defense strategies**
 - 💬 Ask me about **cybersecurity**, **penetration testing**, **AI security**, and **automation**
@@ -113,10 +113,10 @@
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.amkumar8961@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/amitsingh8961/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourhandle">
