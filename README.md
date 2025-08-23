@@ -13,6 +13,44 @@
 - 📚 Always learning about emerging **cyber threats** and **defense strategies**
 - 💬 Ask me about **cybersecurity**, **penetration testing**, **AI security**, and **automation**
 
+## 💼 Professional Experience
+
+**Cyberensis InfoSec, Cybersecurity Intern**  
+_Jul 2024 – Aug 2025 · Hyderabad, Telangana [Remote]_  
+- Vulnerability assessments, web application penetration testing, and incident response  
+- Implemented and recommended security controls, supported audits & risk management  
+- Projects: Real-time threat detection and incident response, usage of Burp Suite, Nmap, adoption of OWASP, ISO 27001
+
+**Parul University, System Support Analyst**  
+_Jun 2023 – Jul 2024 · Vadodara, Gujarat_  
+- Provided technical support for hardware, software, and networks  
+- Enhanced system security, maintained IT protocols & compliance  
+- Conducted user training for software/apps/security best practices
+
+**Hacktify Cyber Security, Cyber Security Intern**  
+_Feb 2024 – Mar 2024 · Mumbai, Maharashtra_  
+- Engaged in web app penetration testing: clickjacking, XSS, IDOR, CSRF, SSRF  
+- Collaborated with experienced cybersecurity pros  
+- Participated in skill-sharing sessions, expanded real-world skills
+
+**TryHackMe, CTF Player**  
+_Dec 2021 – Present_  
+Top 4% (71,325 ranking)
+
+**CyberTalents, CTF Player**  
+_Apr 2021 – Present · UAE_
+
+**Asian School of Cyber Laws, Curator & Contributor**  
+_Nov 2021 – Dec 2021 · Mumbai_
+
+---
+
+## 🎓 Education
+
+- **Bachelor of Technology (B.Tech), Computer Science & Engineering (Cyber Security)**  
+  Parul Institute of Engg. and Tech., Limda, Vaghodia 037 (Jan 2021 – Mar 2025)
+
+
 ## 🛠️ Tech Stack & Skills
 
 ### 🔧 Programming Languages
