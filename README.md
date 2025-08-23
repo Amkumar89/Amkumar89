@@ -58,7 +58,8 @@
     </td>
     <td align="center" width="140">
       <img src="https://images.credly.com/images/2bb39137-aa08-4b2b-babb-87d3d1283737/image.png" width="100" height="100" alt="Harness"/>
-      <br><sub><b>Harness STO Dev</b></sub>
+      <br><sub><b>Harness Certified Security Testing Orchestration Developer
+</b></sub>
     </td>
     <td align="center" width="140">
       <img src="https://images.credly.com/size/680x680/images/3f266148-172f-427c-ba86-d25c73a29d1c/blob" width="100" height="100" alt="LFEL1005"/>
